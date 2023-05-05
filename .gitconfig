@@ -1,0 +1,12 @@
+[pull]
+	rebase = true
+[branch]
+	autosetuprebase = always
+[rebase]
+	autoStash = true
+[init]
+	defaultBranch = main
+[merge]
+	tool = vimdiff
+[push]
+	autoSetupRemote = true
